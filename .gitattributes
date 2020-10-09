@@ -1,0 +1,2 @@
+GoogleSignIn.framework/GoogleSignIn filter=lfs diff=lfs merge=lfs -text
+GoogleSignInDependencies.framework/GoogleSignInDependencies filter=lfs diff=lfs merge=lfs -text
